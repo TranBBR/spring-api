@@ -80,7 +80,7 @@
         </encoder>
     </appender>
     <root level="info">
-        <!--<appender-ref ref="fileout" />-->
+        <appender-ref ref="fileout" />
         <appender-ref ref="stdout-json" />
     </root>
 </configuration>

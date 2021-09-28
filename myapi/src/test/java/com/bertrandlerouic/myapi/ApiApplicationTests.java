@@ -1,10 +1,10 @@
-package com.bertrandlerouic.api;
+package com.bertrandlerouic.myapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
